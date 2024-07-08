@@ -54,7 +54,7 @@ LVAD Certification: Heart Mate and Heartware
 
 # 🎯 Personal Mission
 
-I am dedicated to advancing the field of cardiac care by integrating innovative medical device technologies into clinical practice. My work ensures that patients receive the most effective treatments, and I am committed to educating healthcare providers on the latest advancements to improve patient outcomes nationwide.- 👋 Hi, My name is Aditya Hegde, Biomedical Engineer, IBHRE CERTIFIED, Master’s Graduate in Biomedical Engineering, proficient in Advanced Heart Failure and Cardiac Rhythm Management Devices. 
+I am dedicated to advancing the field of cardiac care by integrating innovative medical device technologies into clinical practice. My work ensures that patients receive the most effective treatments, and I am committed to educating healthcare providers on the latest advancements to improve patient outcomes nationwide.
 
 <!---
 adihegde540/adihegde540 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

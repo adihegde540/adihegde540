@@ -2,8 +2,9 @@
 
 I am a Senior Clinical Specialist in the Cardiac Rhythm Management division at Abbott, with a Master's degree in Biomedical Engineering from the University of Tennessee, Knoxville. My professional journey is rooted in my passion for developing and implementing innovative medical devices to enhance patient outcomes in cardiac care.
 
-💼 Professional Experience
-# Abbott (2020 - Present)
+# 💼 Professional Experience
+
+Abbott (2020 - Present)
 
 Role: Senior Clinical Specialist
 Responsibilities:
@@ -13,19 +14,20 @@ Conduct follow-up visits, device interrogations, and adjustments to ensure devic
 Proctor and educate cardiologists and electrophysiologists on new cardiac technologies, including the FDA-approved AVEIR VR and DR leadless pacemakers.
 Assist in clinical trials and research studies by providing essential field data and device performance reports.
 
-# Emory Healthcare (2018 - 2020)
+Emory Healthcare (2018 - 2020)
 
 Role: Cardiac Device Engineer
 Responsibilities:
 Worked on advanced heart failure devices and assisted in the implantation and optimization of Left Ventricular Assist Devices (LVADs).
 Participated in clinical trials and research studies to advance heart failure management.
+
 St. Jude Medical (2015 - 2016)
 
 Role: Technical Service Engineer
 Responsibilities:
 Assisted in pacemaker implants and provided technical support across various healthcare facilities.
 
-🎓 Education
+# 🎓 Education
 
 # University of Tennessee, Knoxville (2016 - 2017)
 
@@ -39,11 +41,13 @@ Projects: NIH proposal on Multilayered Graphene Scaffold, antibiotic-doped intra
 Degree: Bachelor of Science in Biomedical Engineering
 
 # 💻 Technical Skills
+
 Software: MATLAB, Minitab, AUTOCAD, SolidWorks, SAS
 Specializations: Medical Device Calibration, Pacemaker/ICDs/CRTs, LVADs, ICMs, AVEIRs
 Clinical Expertise: Cath Lab Experience, Mechanical Circulatory Support, Advanced Cardiac Rhythm Management
 
 # 📜 Certifications
+
 IBHRE Certified Cardiac Device Specialist (2022)
 AVEIR Certified Proctor
 LVAD Certification: Heart Mate and Heartware
